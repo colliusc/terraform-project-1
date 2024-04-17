@@ -1,6 +1,14 @@
 # terraform-project-1
 This is a terraform project for creating two EC2 instances, a load balancer ,an S3 bucket ,a Database and other related resources on aws
 
+# Resources
+S3 Bucket
+EC2 instance
+EC2 Instance
+Database
+Elastic Load Balancer
+VPC
+VPC Subnet
 
 # Architecture
 
